@@ -1,6 +1,6 @@
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=Welcome&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20profile&height=50&fontSize=90)
   
 ####  :wave: Welcome my github profile !
 
@@ -26,8 +26,14 @@
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter &logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python &logoColor=white">
+
+<br>
+<br>
+<br>
+<br>
    
-  <h3 align="center">🌈 Follow Me 🌈</h3>
+  <h3 align="center">🌈 Follow Me </h3>
+  <br>
 <p align="center">
   <a href="https://ggkkss.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link=https://ggkkss.tistory.com/"/></a>&nbsp
   <a href="https://twitter.com/home"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/home"/></a>&nbsp
