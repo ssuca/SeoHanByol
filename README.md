@@ -39,4 +39,4 @@
   <a href="https://twitter.com/home"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/home"/></a>&nbsp
   <a href="mailto:gksquf73677@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=gksquf73677@gmail.com"/></a>
 </p>
-</div>
+</div> 
